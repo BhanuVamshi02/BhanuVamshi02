@@ -1,5 +1,5 @@
 <h2 align="left">Hi 👋! I'm Bhanu Vamshi!</h2>
-
+<p align="left">As a highly motivated individual, I am eager to embark on a rewarding career as a React.js/Frontend Developer. </p>
 ###
 
 
